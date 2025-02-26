@@ -6,11 +6,26 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software Engineering is the process of designing, developing, teasting, and maintaining software applications in a structured and eficint manner.
+
+Software Engineering is important as explained below:
+1. Software Engineering bridges the gap of innovation and invention as it allows creation of video games, mobie apps, web apps, robots and to a complex systems such as Operating systems.
+
+2. Software engineering involves solvong of puzzles, which makes every cording practice exciting.
+
+3. The innovation aspect of software Engineering allows us to solve world biggest problems, and therefore, the applications developed turns to be a help to many people worldwide.
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 
+
+
 List and briefly explain the phases of the Software Development Life Cycle.
+Explain what software engineering is and discuss its importance in the technology industry.
+
+
+Information Gathering
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
