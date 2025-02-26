@@ -18,14 +18,20 @@ Software Engineering is important as explained below:
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-
+1. Birth of Software Engineering (1968) – The term was introduced at a NATO conference to address the "software crisis," highlighting the need for structured software development.
+2. Agile Methodology (2001) – The Agile Manifesto introduced flexible and iterative development, improving collaboration and adaptability in software projects.
+3. Cloud Computing & DevOps (2006s-Present) – The rise of cloud platforms and DevOps practices revolutionized software deployment, automation, and scalability.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Explain what software engineering is and discuss its importance in the technology industry.
 
-
-Information Gathering
+1. Planning – Define project scope, goals, and feasibility.
+2. Requirements Gathering – Collect and analyze what the software needs to do.
+3. Design – Create system architecture and UI/UX designs.
+4. Development – Write and implement the actual code.
+5. Testing – Identify and fix bugs, ensuring functionality.
+6. Deployment – Release the software to users.
+7. Maintenance – Update, optimize, and fix issues post-release.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
