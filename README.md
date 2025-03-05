@@ -36,7 +36,6 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall Methodology
-
     Sequential Process: Development flows in a linear order (Requirements → Design → Implementation → Testing → Deployment).
     Rigid Structure: Once a phase is completed, it is difficult to go back and make changes.
     Extensive Documentation: Every phase is well-documented before moving to the next.
@@ -44,7 +43,6 @@ Waterfall Methodology
     Example Scenario: A banking system where compliance and strict documentation are required before implementation.
 
 Agile Methodology
-
     Iterative Process: Work is divided into small cycles (sprints) with continuous feedback and improvements.
     Flexible & Adaptive: Changes can be made at any stage based on feedback.
     Focus on Collaboration: Frequent communication between teams and stakeholders.
@@ -53,21 +51,18 @@ Agile Methodology
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer
-
     Writes and maintains code following best practices.
     Collaborates with designers, testers, and project managers.
     Debugs and optimizes applications for better performance.
     Keeps up with new technologies to improve development efficiency.
 
 Quality Assurance (QA) Engineer
-
     Designs and executes test cases to find bugs and defects.
     Ensures software meets quality and security standards.
     Works with developers to resolve issues and improve test coverage.
     Automates testing for efficiency in large-scale applications.
 
 Project Manager (PM)
-
     Oversees project progress, ensuring deadlines and goals are met.
     Manages team collaboration and communication with stakeholders.
     Allocates resources efficiently to meet project requirements.
@@ -75,68 +70,56 @@ Project Manager (PM)
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs)
-
     Provide tools like code editors, debuggers, and compilers in one place.
     Help improve productivity with auto-completion and debugging features.
     Examples: Visual Studio Code, IntelliJ IDEA, PyCharm.
 
 Version Control Systems (VCS)
-
     Track code changes, making collaboration easier.
     Enable rollbacks in case of errors, preventing data loss.
     Examples: Git (with GitHub, GitLab, or Bitbucket), Apache Subversion (SVN).
 
 Why Are They Important?
-
     IDEs speed up coding and debugging.
     VCS ensures collaboration, history tracking, and error recovery in software projects.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Debugging Complex Issues
-
     Use systematic debugging and logging tools.
     Break the problem into smaller parts and test separately.
 
 Tight Deadlines
-
     Prioritize tasks using Agile methodologies.
     Automate repetitive tasks to save time.
 
 Keeping Up with New Technologies
-
     Follow tech blogs, take online courses, and participate in coding communities.
 
 Communication Gaps in Teams
-
     Use collaboration tools like Slack, Jira, and Trello.
     Hold regular stand-up meetings for updates.
 
 Security Vulnerabilities
-
     Follow secure coding practices and conduct regular security audits.
     Use frameworks and libraries that have built-in security measures.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing
-
     Tests individual components (functions, methods).
     Ensures each part works before integration.
     Example: Checking if a login function validates credentials correctly.
 
 Integration Testing
-
     Tests interactions between multiple components or modules.
     Ensures smooth data flow between connected parts.
     Example: Verifying that the login system communicates properly with the database.
 
 System Testing
-
     Tests the entire application as a whole.
     Ensures all features work correctly in a real-world environment.
     Example: Running a full test on an e-commerce website before launch.
 
 Acceptance Testing
-
     Determines if the software meets user requirements.
     Conducted by end users or clients before approval.
     Example: A business client testing a payroll system before deploying it in their company.
@@ -149,7 +132,6 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is the process of crafting effective and well-structured inputs (prompts) to guide AI models in generating accurate and relevant responses. It involves optimizing language, structure, and context to improve the AI’s understanding and output.
 
 Importance of Prompt Engineering
-
     Enhances AI Accuracy – Well-crafted prompts help AI generate precise and relevant responses.
     Reduces Ambiguity – Clear prompts minimize misunderstandings and vague outputs.
     Improves Efficiency – Users get better responses faster, reducing the need for multiple revisions.
@@ -157,13 +139,11 @@ Importance of Prompt Engineering
     Customizes Responses – By structuring prompts correctly, users can tailor AI responses to their needs.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-
 Vague Prompt:
 
 "Tell me about cars."
 
 Problems with this prompt:
-
     Too broad – AI doesn’t know if you want history, technology, brands, or features.
     Lacks context – It doesn’t specify what aspect of cars is of interest.
     May lead to a generic or unfocused response.
@@ -173,7 +153,6 @@ Improved Prompt:
 "Explain the evolution of electric cars, including key technological advancements and major brands leading the industry."
 
 IMproved prompts are more effective as they are:
-
     Clearer Scope: Focuses on electric cars rather than all cars.
     Specificity: Requests information on history, technological advancements, and key brands.
     Concise and Direct: Guides the AI to provide a well-structured and relevant response.
